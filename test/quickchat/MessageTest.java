@@ -3,7 +3,7 @@ package quickchat;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
-
+// JUnit test cases for QuickChat
 public class MessageTest {
 
     @Test
