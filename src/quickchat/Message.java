@@ -58,7 +58,7 @@ public class Message {
                 + excess
                 + ", please reduce the size.";
     }
-
+// Message hash generation
     public String createMessageHash() {
 
         String[] words = message.split(" ");
@@ -94,7 +94,7 @@ public class Message {
                 return "Invalid option.";
         }
     }
-
+// Display message details
     public String printMessages() {
 
         return "Message ID: " + messageID
