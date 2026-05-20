@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class MessageStore {
-
+// Store messages into JSON file
     public static void storeMessages(ArrayList<Message> messages) {
 
         Gson gson = new GsonBuilder()
