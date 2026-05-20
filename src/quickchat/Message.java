@@ -34,7 +34,7 @@ public class Message {
 
         return messageID.length() <= 10;
     }
-
+// Recipient validation method
    public String checkRecipientCell() {
 
     if (recipient.startsWith("+27") && recipient.length() == 12) {
@@ -44,6 +44,7 @@ public class Message {
 
     return "Cell phone number is incorrectly formatted or does not contain an international code. Please correct the number and try again.";
 }
+   // Message length validation
     public String validateMessageLength() {
 
         if (message.length() <= 250) {
