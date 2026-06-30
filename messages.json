@@ -1,9 +1,23 @@
 [
   {
-    "messageID": "3573908597",
+    "messageID": "2583067341",
     "messageNumber": 1,
-    "recipient": "+27718693002",
-    "message": "Hi Mike can you join us for dinner tonight?",
-    "messageHash": "35:1:HITONIGHT?"
+    "recipient": "+27729987335",
+    "message": "hello",
+    "messageHash": "25:1:HELLOHELLO"
+  },
+  {
+    "messageID": "9171370948",
+    "messageNumber": 2,
+    "recipient": "+27729987335",
+    "message": "how are you",
+    "messageHash": "91:2:HOWYOU"
+  },
+  {
+    "messageID": "8370487127",
+    "messageNumber": 3,
+    "recipient": "+27729987335",
+    "message": "what are your plans for the weekend",
+    "messageHash": "83:3:WHATWEEKEND"
   }
 ]
